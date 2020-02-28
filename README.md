@@ -1,1 +1,1 @@
-# Eloquent-JS
+# Eloquent JS
