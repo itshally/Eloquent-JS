@@ -25,11 +25,11 @@ let countBs = b => {
 
     for(let x = 0; x < word.length; x++){
       if(word[x] === 'B')
-        count+=1;
+        count++;
     }
 
     return count;
-  }
+}
 
   console.log(countBs('BeebBee'))
   // 3
